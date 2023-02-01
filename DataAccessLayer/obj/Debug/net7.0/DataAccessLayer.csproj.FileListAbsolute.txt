@@ -1,0 +1,17 @@
+C:\C#\CoreProject\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\C#\CoreProject\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+C:\C#\CoreProject\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\C#\CoreProject\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\C#\CoreProject\DataAccessLayer\bin\Debug\net7.0\EntityLayer.dll
+C:\C#\CoreProject\DataAccessLayer\bin\Debug\net7.0\EntityLayer.pdb
+C:\C#\CoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\C#\CoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\C#\CoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\C#\CoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\C#\CoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CopyComplete
+C:\C#\CoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\C#\CoreProject\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\C#\CoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\C#\CoreProject\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+C:\C#\CoreProject\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
